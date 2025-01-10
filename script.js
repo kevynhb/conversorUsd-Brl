@@ -1,5 +1,5 @@
 // https://economia.awesomeapi.com.br/last/USD-BRL,
-let dolar = 5.57
+let dolar = 6
 
 let usdInput = document.querySelector("#usd")
 let brlInput = document.querySelector("#brl")
